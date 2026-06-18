@@ -1,5 +1,5 @@
 
-@@ -0,0 +1,48 @@
+
 # ⌨️ MonkeyType Autotyper with Cognitive Emulation
 
 A highly optimized Tampermonkey/Violentmonkey userscript designed for **MonkeyType** that simulates realistic human typing behaviors. Instead of a linear, robotic text stream, this engine uses mathematical variance algorithms and simulated cognitive stutters to emulate a real typist working at elite speeds (190–250 WPM).
