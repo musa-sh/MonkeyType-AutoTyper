@@ -1,4 +1,4 @@
-@@ -0,0 +1,49 @@
+
 @@ -0,0 +1,48 @@
 # ⌨️ MonkeyType Autotyper with Cognitive Emulation
 
